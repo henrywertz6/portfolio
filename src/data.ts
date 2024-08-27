@@ -11,7 +11,7 @@ export const projects = [
     subtitle: "iOS App",
     description:
       "GameSave is a social video game logging app. Currently being developed for iOS. React web app planned next.",
-    image: "/src/gamesave.png",
+    image: "/gamesave.png",
     skills: ["Swift", "SwiftUI", "Firebase", "Python", "JavaScript"],
   },
   {
@@ -19,7 +19,7 @@ export const projects = [
     subtitle: "Comprehensive frame data RESTful API",
     description:
       "A comprehensive RESTful API that provides access to detailed Street Fighter 6 frame data.",
-    image: "/src/sf6characters_1_25.webp",
+    image: "/sf6characters_1_25.webp",
     skills: ["Python", "FastAPI", "Selenium"],
   },
   {
@@ -27,7 +27,7 @@ export const projects = [
     subtitle: "Responsive Web App",
     description:
       "TigerStudies was an app designed to help Princeton students find other Princeton students to study with.",
-    image: "/src/tigerstudies.png",
+    image: "/tigerstudies.png",
     skills: ["HTML", "CSS", "SQLAlchemy"],
   },
 ];
