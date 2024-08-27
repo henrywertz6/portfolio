@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { projects } from "../data";
 
 interface Project {
