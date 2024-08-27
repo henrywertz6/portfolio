@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <header className="dark:bg-[#1E201E] top-0 sticky z-10">
+    <header className="bg-[#1E201E] top-0 sticky z-10">
       <div className="container mx-auto flex p-5 flex-row items-center">
         <a href="#about" className="text-xl font-medium">
           Henry Wertz

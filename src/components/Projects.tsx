@@ -12,14 +12,14 @@ export default function Projects() {
   return (
     <div
       id="projects"
-      className="relative overflow-hidden dark:text-[#ECDFCC] dark:bg-[#1E201E] text-center"
+      className="relative overflow-hidden text-[#ECDFCC] bg-[#1E201E] text-center"
     >
       <h1 className="text-3xl mb-8">Projects</h1>
       <div className="flex flex-wrap gap-8 justify-center px-4">
         {projects.map((project: Project, index: number) => (
           <div
             key={index}
-            className="text-center dark:bg-[#3C3D37] rounded-lg text-xl w-80 overflow-hidden"
+            className="text-center bg-[#3C3D37] rounded-lg text-xl w-80 overflow-hidden"
           >
             <div className="h-48 overflow-hidden">
               <img
