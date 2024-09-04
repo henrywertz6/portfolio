@@ -11,7 +11,7 @@ export const projects = [
     subtitle: "iOS App",
     description:
       "GameSave is a social video game logging app. Currently being developed for iOS. React web app planned next.",
-    image: "/gamesave.png",
+    image: "/gamesave.webp",
     skills: ["Swift", "SwiftUI", "Firebase", "Python", "JavaScript"],
   },
   {
