@@ -12,7 +12,15 @@ export const projects = [
     description:
       "GameSave is a social video game logging app. Currently being developed for iOS. React web app planned next.",
     image: "/gamesave.webp",
-    skills: ["Swift", "SwiftUI", "Firebase", "Python", "JavaScript"],
+    skills: [
+      "Swift",
+      "SwiftUI",
+      "Firebase",
+      "Python",
+      "JavaScript",
+      "PostgreSQL",
+      "FastAPI",
+    ],
   },
   {
     title: "Street Fighter 6 API",
@@ -28,6 +36,6 @@ export const projects = [
     description:
       "TigerStudies was an app designed to help Princeton students find other Princeton students to study with.",
     image: "/tigerstudies.png",
-    skills: ["HTML", "CSS", "SQLAlchemy"],
+    skills: ["HTML", "CSS", "JavaScript", "SQLAlchemy", "Flask", "Python"],
   },
 ];
